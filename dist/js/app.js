@@ -3,10 +3,9 @@ var __webpack_exports__ = {};
 /*!********************!*\
   !*** ./src/app.ts ***!
   \********************/
-var text = document.getElementById("text");
-text.innerText = 'Webpack Build Typescript Sass demo';
-console.log("xxx11");
+var text = document.getElementById('text');
+text.innerText = 'Webpack5 Build Html Sass TypesSript';
 
 /******/ })()
 ;
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoianMvYXBwLmpzIiwibWFwcGluZ3MiOiI7Ozs7O0FBQ0EsSUFBTSxJQUFJLEdBQUcsUUFBUSxDQUFDLGNBQWMsQ0FBQyxNQUFNLENBQUM7QUFDNUMsSUFBSSxDQUFDLFNBQVMsR0FBRyxvQ0FBb0M7QUFFckQsT0FBTyxDQUFDLEdBQUcsQ0FBQyxPQUFPLENBQUMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly90cy1zYXNzLWRlbW8vLi9zcmMvYXBwLnRzIl0sInNvdXJjZXNDb250ZW50IjpbIlxuY29uc3QgdGV4dCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKFwidGV4dFwiKVxudGV4dC5pbm5lclRleHQgPSAnV2VicGFjayBCdWlsZCBUeXBlc2NyaXB0IFNhc3MgZGVtbydcblxuY29uc29sZS5sb2coXCJ4eHgxMVwiKSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoianMvYXBwLmpzIiwibWFwcGluZ3MiOiI7Ozs7O0FBQUEsSUFBTSxJQUFJLEdBQUcsUUFBUSxDQUFDLGNBQWMsQ0FBQyxNQUFNLENBQUMsQ0FBQztBQUM3QyxJQUFJLENBQUMsU0FBUyxHQUFHLHFDQUFxQyxDQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vdHMtc2Fzcy1kZW1vLy4vc3JjL2FwcC50cyJdLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCB0ZXh0ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3RleHQnKTtcbnRleHQuaW5uZXJUZXh0ID0gJ1dlYnBhY2s1IEJ1aWxkIEh0bWwgU2FzcyBUeXBlc1NyaXB0JztcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==
