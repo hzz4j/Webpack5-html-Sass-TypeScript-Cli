@@ -2,6 +2,8 @@
 
 Webpack5 html Sass TypeScript Cli
 
+[open oneline in stackblitz](https://stackblitz.com/edit/webpack-webpack-js-org-4wgkdu)
+
 # Getting Started
 
 ## How to use\*\*
